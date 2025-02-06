@@ -1,3 +1,4 @@
+//write a function that takes two integers as parameters and returns the larger one
 #include <iostream>
 using namespace std;
 int maxnum(int x,int y){

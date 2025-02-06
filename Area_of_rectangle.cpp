@@ -1,3 +1,4 @@
+//Print area of rectangle through function 
 #include <iostream>
 using namespace std;
 int area(int,int);
