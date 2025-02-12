@@ -19,7 +19,6 @@ int main(){
             cout<<arr[i][2-i]<<"\t";
     }
     cout<<endl;
-    return 0;
-        
+    return 0;    
     }
 
