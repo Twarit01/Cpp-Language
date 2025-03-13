@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
 class Student{
 public:
     int roll_no;
@@ -11,7 +10,7 @@ public:
         cout << "Provide Roll no: ";
         cin >> roll_no;
         cin.ignore();
-
+        
         cout << "Enter Name: ";
         getline(cin, name);
 
